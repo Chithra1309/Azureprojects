@@ -1,0 +1,9 @@
+{
+	"name": "dfpractice13",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "72677501-a80d-4162-aa33-c1ca32e18b7a",
+		"tenantId": "fed5babb-4aea-41bd-89e7-447fc565a327"
+	}
+}
