@@ -1,0 +1,9 @@
+{
+	"name": "ChurnADF13",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2e1039eb-2ec4-40e4-9b97-746d38073aeb",
+		"tenantId": "fed5babb-4aea-41bd-89e7-447fc565a327"
+	}
+}
